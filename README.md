@@ -14,7 +14,9 @@
 
 This repository contains my **Week 6 Cloud Security** assignments completed during the Sohail Smart Solutions Summer Training Program 2026.
 
-Throughout the week, I continue the same fictional cloud migration project for **EduTrack Learning Solutions**, demonstrating how Governance, Risk, and Compliance (GRC) principles are applied in cloud environments. Each assignment builds on the previous one, covering cloud security foundations, identity and access management, cloud configuration security, data protection, and the final cloud security assessment.
+Throughout the week, I continue the same fictional cloud migration project for **EduTrack Learning Solutions**, demonstrating how Governance, Risk, and Compliance (GRC) principles are applied in cloud environments. Each assignment builds on the previous one, covering cloud security foundations, Identity and Access Management (IAM), Cloud Security Posture Management (CSPM), cloud data protection, regulatory compliance, and a final cloud security assessment.
+
+The project follows the migration of EduTrack Learning Solutions' Learning Management System (LMS) to Amazon Web Services (AWS), showing how security controls, governance, and compliance are applied throughout each stage of the migration.
 
 ---
 
@@ -24,8 +26,8 @@ Throughout the week, I continue the same fictional cloud migration project for *
 |-----|------------|:------:|
 | Monday | Cloud Security Foundations – Shared Responsibility & Cloud Threat Model | ✅ |
 | Tuesday | Cloud Identity & Access Management (IAM) | ✅ |
-| Wednesday | Cloud Configuration & CSPM | ✅ |
-| Thursday | Cloud Data Protection & Compliance | ⏳ |
+| Wednesday | Cloud Configuration & Cloud Security Posture Management (CSPM) | ✅ |
+| Thursday | Cloud Data Protection & Compliance – Encryption, Residency & Privacy | ✅ |
 | Friday | Cloud Security Assessment Report | ⏳ |
 
 ---
@@ -39,11 +41,19 @@ Throughout the week, I continue the same fictional cloud migration project for *
 - Multi-Factor Authentication (MFA)
 - Identity Federation
 - Single Sign-On (SSO)
+- AWS Key Management Service (KMS)
 - Cloud Security Posture Management (CSPM)
 - Center for Internet Security (CIS) Benchmarks
 - AWS CloudTrail
 - AWS Config
-- Cloud Security Best Practices
+- Data Classification
+- Encryption at Rest
+- Encryption in Transit
+- Tokenization
+- Data Residency
+- Data Sovereignty
+- General Data Protection Regulation (GDPR)
+- UAE Personal Data Protection Law (PDPL)
 - ISO/IEC 27001
 - ISO/IEC 27017
 - ISO/IEC 27018
@@ -57,10 +67,15 @@ Throughout the week, I continue the same fictional cloud migration project for *
 - Identity and Access Management
 - Secure Cloud Configuration
 - Cloud Security Posture Management (CSPM)
+- Cloud Data Protection
+- Data Classification
+- Encryption Management
 - Cloud Governance
 - Cloud Risk Assessment
 - Access Control Design
 - Security Control Mapping
+- Regulatory Compliance
+- Privacy Compliance
 - Continuous Compliance
 - Compliance and Audit Readiness
 - Cloud Security Best Practices
@@ -86,7 +101,9 @@ week6-cloud-security/
 
 The objective of this repository is to document my practical cloud security work completed during **Week 6** of the Sohail Smart Solutions Summer Training Program.
 
-Using the fictional **EduTrack Learning Solutions** AWS migration scenario, each assignment demonstrates how cloud governance, identity management, secure configuration, continuous compliance, data protection, and risk assessment work together to build and maintain a secure cloud environment.
+Using the fictional **EduTrack Learning Solutions** AWS migration scenario, each assignment demonstrates how cloud governance, Identity and Access Management (IAM), secure configuration, Cloud Security Posture Management (CSPM), cloud data protection, regulatory compliance, and risk assessment work together to build and maintain a secure cloud environment.
+
+By the end of the week, this repository represents a complete cloud security engagement that follows a realistic cloud migration from planning and governance through to security assessment and compliance.
 
 ---
 
