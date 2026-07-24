@@ -14,9 +14,9 @@
 
 This repository contains my **Week 6 Cloud Security** assignments completed during the Sohail Smart Solutions Summer Training Program 2026.
 
-Throughout the week, I continue the same fictional cloud migration project for **EduTrack Learning Solutions**, demonstrating how Governance, Risk, and Compliance (GRC) principles are applied in cloud environments. Each assignment builds on the previous one, covering cloud security foundations, Identity and Access Management (IAM), Cloud Security Posture Management (CSPM), cloud data protection, regulatory compliance, and a final cloud security assessment.
+Throughout the week, I continue the same fictional cloud migration project for **EduTrack Learning Solutions**, demonstrating how Governance, Risk, and Compliance (GRC) principles are applied in cloud environments. Each assignment builds on the previous one, covering Cloud Security Foundations, Identity and Access Management (IAM), Cloud Security Posture Management (CSPM), Cloud Data Protection, Regulatory Compliance, and a final Cloud Security Assessment.
 
-The project follows the migration of EduTrack Learning Solutions' Learning Management System (LMS) to Amazon Web Services (AWS), showing how security controls, governance, and compliance are applied throughout each stage of the migration.
+The project follows the migration of EduTrack Learning Solutions' Learning Management System (LMS) to **Amazon Web Services (AWS)**, showing how security controls, governance, and compliance are applied throughout each stage of the migration.
 
 ---
 
@@ -28,7 +28,17 @@ The project follows the migration of EduTrack Learning Solutions' Learning Manag
 | Tuesday | Cloud Identity & Access Management (IAM) | ✅ |
 | Wednesday | Cloud Configuration & Cloud Security Posture Management (CSPM) | ✅ |
 | Thursday | Cloud Data Protection & Compliance – Encryption, Residency & Privacy | ✅ |
-| Friday | Cloud Security Assessment Report | ⏳ |
+| Friday | Cloud Security Assessment Report – Consolidating the Cloud Engagement | ✅ |
+
+---
+
+## Repository Contents
+
+- Monday – Cloud Security Foundations & Cloud Threat Model
+- Tuesday – Cloud Identity & Access Management (IAM)
+- Wednesday – Cloud Configuration & Cloud Security Posture Management (CSPM)
+- Thursday – Cloud Data Protection & Compliance
+- Friday – Cloud Security Assessment Report
 
 ---
 
@@ -107,4 +117,14 @@ By the end of the week, this repository represents a complete cloud security eng
 
 ---
 
-*This repository contains coursework completed as part of the Sohail Smart Solutions Summer Training Program 2026. EduTrack Learning Solutions is a fictional organization used for educational purposes.*
+## Final Remarks
+
+This repository represents the successful completion of the **Week 6 Cloud Security** module during the Sohail Smart Solutions Summer Training Program 2026.
+
+Across five connected assignments, the project demonstrates the practical application of cloud security principles within a realistic AWS migration scenario. It covers cloud governance, threat modeling, Identity and Access Management (IAM), Cloud Security Posture Management (CSPM), secure configuration, data protection, compliance, and a final cloud security assessment.
+
+Together, these reports illustrate how industry best practices and internationally recognized standards can be applied to strengthen an organization's cloud security posture and support a secure, compliant, and resilient cloud environment.
+
+---
+
+*This repository contains coursework completed as part of the Sohail Smart Solutions Summer Training Program 2026. EduTrack Learning Solutions is a fictional organization created solely for educational purposes.*
